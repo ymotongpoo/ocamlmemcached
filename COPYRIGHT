@@ -1,0 +1,9 @@
+Copyright (C) 2010
+  OCaml-memcached -- OCaml binding for memcached.
+  Yoshifumi YAMAGUCHI
+
+  email: ymotongpoo AT gmail DOT com
+
+The contents of some files in this distribution was derived from external
+sources with compatible licenses.  The original copyright and license
+notice was preserved in the affected files.
